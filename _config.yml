@@ -1,2 +1,4 @@
 name: Jeff Kramer
 markdown: kramdown
+
+theme: jekyll-theme-cayman
